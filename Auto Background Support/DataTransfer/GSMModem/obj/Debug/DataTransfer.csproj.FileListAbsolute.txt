@@ -1,0 +1,17 @@
+D:\REANCY\Auto Background Support\DataTransfer\GSMModem\bin\Debug\GSMModem.exe.config
+D:\REANCY\Auto Background Support\DataTransfer\GSMModem\bin\Debug\GSMModem.exe.manifest
+D:\REANCY\Auto Background Support\DataTransfer\GSMModem\bin\Debug\GSMModem.application
+D:\REANCY\Auto Background Support\DataTransfer\GSMModem\bin\Debug\GSMModem.exe
+D:\REANCY\Auto Background Support\DataTransfer\GSMModem\bin\Debug\GSMModem.pdb
+D:\REANCY\Auto Background Support\DataTransfer\GSMModem\bin\Debug\Npgsql.dll
+D:\REANCY\Auto Background Support\DataTransfer\GSMModem\bin\Debug\Npgsql.xml
+D:\REANCY\Auto Background Support\DataTransfer\GSMModem\obj\Debug\DataTransfer.csprojResolveAssemblyReference.cache
+D:\REANCY\Auto Background Support\DataTransfer\GSMModem\obj\Debug\GSMModem.EmailBlasting.resources
+D:\REANCY\Auto Background Support\DataTransfer\GSMModem\obj\Debug\GSMModem.Form1.resources
+D:\REANCY\Auto Background Support\DataTransfer\GSMModem\obj\Debug\GSMModem.Properties.Resources.resources
+D:\REANCY\Auto Background Support\DataTransfer\GSMModem\obj\Debug\GSMModem.SMS.resources
+D:\REANCY\Auto Background Support\DataTransfer\GSMModem\obj\Debug\DataTransfer.csproj.GenerateResource.Cache
+D:\REANCY\Auto Background Support\DataTransfer\GSMModem\obj\Debug\GSMModem.exe.manifest
+D:\REANCY\Auto Background Support\DataTransfer\GSMModem\obj\Debug\GSMModem.application
+D:\REANCY\Auto Background Support\DataTransfer\GSMModem\obj\Debug\GSMModem.exe
+D:\REANCY\Auto Background Support\DataTransfer\GSMModem\obj\Debug\GSMModem.pdb

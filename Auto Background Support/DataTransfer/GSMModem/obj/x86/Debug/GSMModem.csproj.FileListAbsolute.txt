@@ -1,0 +1,212 @@
+E:\C-Sharp Corner\Source Code\GSMModemApplication\GSMModem\GSMModem\bin\Debug\GSMModem.exe
+E:\C-Sharp Corner\Source Code\GSMModemApplication\GSMModem\GSMModem\bin\Debug\GSMModem.pdb
+E:\C-Sharp Corner\Source Code\GSMModemApplication\GSMModem\GSMModem\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C-Sharp Corner\Source Code\GSMModemApplication\GSMModem\GSMModem\obj\x86\Debug\GSMModem.Form1.resources
+E:\C-Sharp Corner\Source Code\GSMModemApplication\GSMModem\GSMModem\obj\x86\Debug\GSMModem.Properties.Resources.resources
+E:\C-Sharp Corner\Source Code\GSMModemApplication\GSMModem\GSMModem\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\C-Sharp Corner\Source Code\GSMModemApplication\GSMModem\GSMModem\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+E:\C-Sharp Corner\Source Code\GSMModemApplication\GSMModem\GSMModem\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\C-Sharp Corner\Source Code\GSMModemApplication\GSMModem\GSMModem\obj\x86\Debug\GSMModem.exe
+E:\C-Sharp Corner\Source Code\GSMModemApplication\GSMModem\GSMModem\obj\x86\Debug\GSMModem.pdb
+E:\C-Sharp Corner\Source Code\GSMModemApplication\GSMModem\GSMModem\bin\Debug\GSMModem.exe.config
+E:\C-Sharp Corner\Source Code\GSMModemApplication\GSMModem\GSMModem\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\C-Sharp Corner\Source Code\GSMModemApplication\GSMModem\GSMModem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Program Files\NetMeeting\Received Files\GSMModemApplication\GSMModem\GSMModem\bin\Debug\GSMModem.exe.config
+C:\Program Files\NetMeeting\Received Files\GSMModemApplication\GSMModem\GSMModem\obj\x86\Debug\GSMModem.exe
+C:\Program Files\NetMeeting\Received Files\GSMModemApplication\GSMModem\GSMModem\obj\x86\Debug\GSMModem.pdb
+C:\Program Files\NetMeeting\Received Files\GSMModemApplication\GSMModem\GSMModem\bin\Debug\GSMModem.exe
+C:\Program Files\NetMeeting\Received Files\GSMModemApplication\GSMModem\GSMModem\bin\Debug\GSMModem.pdb
+C:\Program Files\NetMeeting\Received Files\GSMModemApplication\GSMModem\GSMModem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Program Files\NetMeeting\Received Files\GSMModemApplication\GSMModem\GSMModem\obj\x86\Debug\GSMModem.Form1.resources
+C:\Program Files\NetMeeting\Received Files\GSMModemApplication\GSMModem\GSMModem\obj\x86\Debug\GSMModem.Properties.Resources.resources
+C:\Program Files\NetMeeting\Received Files\GSMModemApplication\GSMModem\GSMModem\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Program Files\NetMeeting\Received Files\GSMModemApplication\GSMModem\GSMModem\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Program Files\NetMeeting\Received Files\GSMModemApplication\GSMModem\GSMModem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Program Files\NetMeeting\Received Files\GSMModemApplication\GSMModem\GSMModem\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Program Files\NetMeeting\Received Files\GSMModemApplication\GSMModem\GSMModem\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\C-Sharp Corner\Source Code\GSMModem\GSMModem\bin\Debug\GSMModem.exe.config
+E:\C-Sharp Corner\Source Code\GSMModem\GSMModem\obj\x86\Debug\GSMModem.exe
+E:\C-Sharp Corner\Source Code\GSMModem\GSMModem\obj\x86\Debug\GSMModem.pdb
+E:\C-Sharp Corner\Source Code\GSMModem\GSMModem\bin\Debug\GSMModem.exe
+E:\C-Sharp Corner\Source Code\GSMModem\GSMModem\bin\Debug\GSMModem.pdb
+E:\C-Sharp Corner\Source Code\GSMModem\GSMModem\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C-Sharp Corner\Source Code\GSMModem\GSMModem\obj\x86\Debug\GSMModem.Form1.resources
+E:\C-Sharp Corner\Source Code\GSMModem\GSMModem\obj\x86\Debug\GSMModem.Properties.Resources.resources
+E:\C-Sharp Corner\Source Code\GSMModem\GSMModem\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\C-Sharp Corner\Source Code\GSMModem\GSMModem\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+E:\C-Sharp Corner\Source Code\GSMModem\GSMModem\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\C-Sharp Corner\Source Code\GSMModem\GSMModem\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\C-Sharp Corner\Source Code\GSMModem\GSMModem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lourence\Documents\Visual Studio 2013\Projects\gsmcom\GSMModem\GSMModem\bin\Debug\GSMModem.exe.config
+C:\Users\lourence\Documents\Visual Studio 2013\Projects\gsmcom\GSMModem\GSMModem\obj\x86\Debug\GSMModem.exe
+C:\Users\lourence\Documents\Visual Studio 2013\Projects\gsmcom\GSMModem\GSMModem\obj\x86\Debug\GSMModem.pdb
+C:\Users\lourence\Documents\Visual Studio 2013\Projects\gsmcom\GSMModem\GSMModem\bin\Debug\GSMModem.exe
+C:\Users\lourence\Documents\Visual Studio 2013\Projects\gsmcom\GSMModem\GSMModem\bin\Debug\GSMModem.pdb
+C:\Users\lourence\Documents\Visual Studio 2013\Projects\gsmcom\GSMModem\GSMModem\obj\x86\Debug\GSMModem.csprojResolveAssemblyReference.cache
+C:\Users\lourence\Documents\Visual Studio 2013\Projects\gsmcom\GSMModem\GSMModem\obj\x86\Debug\GSMModem.Form1.resources
+C:\Users\lourence\Documents\Visual Studio 2013\Projects\gsmcom\GSMModem\GSMModem\obj\x86\Debug\GSMModem.Properties.Resources.resources
+C:\Users\lourence\Documents\Visual Studio 2013\Projects\gsmcom\GSMModem\GSMModem\obj\x86\Debug\GSMModem.csproj.GenerateResource.Cache
+C:\Users\lourence\Documents\Visual Studio 2013\Projects\gsmcom\GSMModem\GSMModem\obj\x86\Debug\GSMModem.SMS.resources
+C:\Users\lourence\Documents\Visual Studio 2013\Projects\gsmcom\GSMModem\GSMModem\bin\Debug\Npgsql.dll
+C:\Users\lourence\Documents\Visual Studio 2013\Projects\gsmcom\GSMModem\GSMModem\bin\Debug\Npgsql.xml
+E:\rightapps\gsmcom\GSMModem\GSMModem\bin\Debug\GSMModem.exe.config
+E:\rightapps\gsmcom\GSMModem\GSMModem\obj\x86\Debug\GSMModem.exe
+E:\rightapps\gsmcom\GSMModem\GSMModem\obj\x86\Debug\GSMModem.pdb
+E:\rightapps\gsmcom\GSMModem\GSMModem\bin\Debug\GSMModem.exe
+E:\rightapps\gsmcom\GSMModem\GSMModem\bin\Debug\GSMModem.pdb
+E:\rightapps\gsmcom\GSMModem\GSMModem\bin\Debug\Npgsql.dll
+E:\rightapps\gsmcom\GSMModem\GSMModem\bin\Debug\Npgsql.xml
+E:\rightapps\gsmcom\GSMModem\GSMModem\obj\x86\Debug\GSMModem.csprojResolveAssemblyReference.cache
+E:\rightapps\gsmcom\GSMModem\GSMModem\obj\x86\Debug\GSMModem.Form1.resources
+E:\rightapps\gsmcom\GSMModem\GSMModem\obj\x86\Debug\GSMModem.Properties.Resources.resources
+E:\rightapps\gsmcom\GSMModem\GSMModem\obj\x86\Debug\GSMModem.SMS.resources
+E:\rightapps\gsmcom\GSMModem\GSMModem\obj\x86\Debug\GSMModem.csproj.GenerateResource.Cache
+E:\guitar-tutorial\gsmcom\GSMModem\GSMModem\bin\Debug\GSMModem.exe.config
+E:\guitar-tutorial\gsmcom\GSMModem\GSMModem\obj\x86\Debug\GSMModem.exe
+E:\guitar-tutorial\gsmcom\GSMModem\GSMModem\obj\x86\Debug\GSMModem.pdb
+E:\guitar-tutorial\gsmcom\GSMModem\GSMModem\bin\Debug\GSMModem.exe
+E:\guitar-tutorial\gsmcom\GSMModem\GSMModem\bin\Debug\GSMModem.pdb
+E:\guitar-tutorial\gsmcom\GSMModem\GSMModem\bin\Debug\Npgsql.dll
+E:\guitar-tutorial\gsmcom\GSMModem\GSMModem\bin\Debug\Npgsql.xml
+E:\guitar-tutorial\gsmcom\GSMModem\GSMModem\obj\x86\Debug\GSMModem.csprojResolveAssemblyReference.cache
+E:\guitar-tutorial\gsmcom\GSMModem\GSMModem\obj\x86\Debug\GSMModem.Form1.resources
+E:\guitar-tutorial\gsmcom\GSMModem\GSMModem\obj\x86\Debug\GSMModem.Properties.Resources.resources
+E:\guitar-tutorial\gsmcom\GSMModem\GSMModem\obj\x86\Debug\GSMModem.SMS.resources
+E:\guitar-tutorial\gsmcom\GSMModem\GSMModem\obj\x86\Debug\GSMModem.csproj.GenerateResource.Cache
+F:\guitar-tutorial\gsmcom\GSMModem\GSMModem\bin\Debug\GSMModem.exe.config
+F:\guitar-tutorial\gsmcom\GSMModem\GSMModem\obj\x86\Debug\GSMModem.exe
+F:\guitar-tutorial\gsmcom\GSMModem\GSMModem\obj\x86\Debug\GSMModem.pdb
+F:\guitar-tutorial\gsmcom\GSMModem\GSMModem\bin\Debug\GSMModem.exe
+F:\guitar-tutorial\gsmcom\GSMModem\GSMModem\bin\Debug\GSMModem.pdb
+F:\guitar-tutorial\gsmcom\GSMModem\GSMModem\bin\Debug\Npgsql.dll
+F:\guitar-tutorial\gsmcom\GSMModem\GSMModem\bin\Debug\Npgsql.xml
+F:\guitar-tutorial\gsmcom\GSMModem\GSMModem\obj\x86\Debug\GSMModem.csprojResolveAssemblyReference.cache
+F:\guitar-tutorial\gsmcom\GSMModem\GSMModem\obj\x86\Debug\GSMModem.Form1.resources
+F:\guitar-tutorial\gsmcom\GSMModem\GSMModem\obj\x86\Debug\GSMModem.Properties.Resources.resources
+F:\guitar-tutorial\gsmcom\GSMModem\GSMModem\obj\x86\Debug\GSMModem.SMS.resources
+F:\guitar-tutorial\gsmcom\GSMModem\GSMModem\obj\x86\Debug\GSMModem.csproj.GenerateResource.Cache
+D:\RSS Projects\gsmcom_RSS_PROJECT\GSMModem\GSMModem\bin\Debug\GSMModem.exe.config
+D:\RSS Projects\gsmcom_RSS_PROJECT\GSMModem\GSMModem\obj\x86\Debug\GSMModem.exe
+D:\RSS Projects\gsmcom_RSS_PROJECT\GSMModem\GSMModem\obj\x86\Debug\GSMModem.pdb
+D:\RSS Projects\gsmcom_RSS_PROJECT\GSMModem\GSMModem\bin\Debug\GSMModem.exe
+D:\RSS Projects\gsmcom_RSS_PROJECT\GSMModem\GSMModem\bin\Debug\GSMModem.pdb
+D:\RSS Projects\gsmcom_RSS_PROJECT\GSMModem\GSMModem\bin\Debug\Npgsql.dll
+D:\RSS Projects\gsmcom_RSS_PROJECT\GSMModem\GSMModem\bin\Debug\Npgsql.xml
+D:\RSS Projects\gsmcom_RSS_PROJECT\GSMModem\GSMModem\obj\x86\Debug\GSMModem.csprojResolveAssemblyReference.cache
+D:\RSS Projects\gsmcom_RSS_PROJECT\GSMModem\GSMModem\obj\x86\Debug\GSMModem.Form1.resources
+D:\RSS Projects\gsmcom_RSS_PROJECT\GSMModem\GSMModem\obj\x86\Debug\GSMModem.Properties.Resources.resources
+D:\RSS Projects\gsmcom_RSS_PROJECT\GSMModem\GSMModem\obj\x86\Debug\GSMModem.SMS.resources
+D:\RSS Projects\gsmcom_RSS_PROJECT\GSMModem\GSMModem\obj\x86\Debug\GSMModem.csproj.GenerateResource.Cache
+E:\rssys\gsmcom_RSS_PROJECT\GSMModem_s\GSMModem\bin\Debug\GSMModem.exe.config
+E:\rssys\gsmcom_RSS_PROJECT\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.exe
+E:\rssys\gsmcom_RSS_PROJECT\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.pdb
+E:\rssys\EmailBlasting\GSMModem_s\GSMModem\bin\Debug\GSMModem.exe.config
+E:\rssys\EmailBlasting\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.exe
+E:\rssys\EmailBlasting\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.pdb
+E:\rssys\EmailBlasting\GSMModem_s\GSMModem\bin\Debug\GSMModem.exe
+E:\rssys\EmailBlasting\GSMModem_s\GSMModem\bin\Debug\GSMModem.pdb
+E:\rssys\EmailBlasting\GSMModem_s\GSMModem\bin\Debug\Npgsql.dll
+E:\rssys\EmailBlasting\GSMModem_s\GSMModem\bin\Debug\Npgsql.xml
+E:\rssys\EmailBlasting\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.csprojResolveAssemblyReference.cache
+E:\rssys\EmailBlasting\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.EmailBlasting.resources
+E:\rssys\EmailBlasting\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.Form1.resources
+E:\rssys\EmailBlasting\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.Properties.Resources.resources
+E:\rssys\EmailBlasting\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.SMS.resources
+E:\rssys\EmailBlasting\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.csproj.GenerateResource.Cache
+F:\rssys\EmailBlasting\GSMModem_s\GSMModem\bin\Debug\GSMModem.exe.config
+F:\rssys\EmailBlasting\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.exe
+F:\rssys\EmailBlasting\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.pdb
+F:\rssys\EmailBlasting\GSMModem_s\GSMModem\bin\Debug\GSMModem.exe
+F:\rssys\EmailBlasting\GSMModem_s\GSMModem\bin\Debug\GSMModem.pdb
+F:\rssys\EmailBlasting\GSMModem_s\GSMModem\bin\Debug\Npgsql.dll
+F:\rssys\EmailBlasting\GSMModem_s\GSMModem\bin\Debug\Npgsql.xml
+F:\rssys\EmailBlasting\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.csprojResolveAssemblyReference.cache
+F:\rssys\EmailBlasting\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.EmailBlasting.resources
+F:\rssys\EmailBlasting\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.Form1.resources
+F:\rssys\EmailBlasting\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.Properties.Resources.resources
+F:\rssys\EmailBlasting\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.SMS.resources
+F:\rssys\EmailBlasting\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.csproj.GenerateResource.Cache
+C:\Users\RIGHTAPPS\Downloads\EMAILBLASTING\EMAILBLASTING\GSMModem_s\GSMModem\bin\Debug\GSMModem.exe.config
+C:\Users\RIGHTAPPS\Downloads\EMAILBLASTING\EMAILBLASTING\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.exe
+C:\Users\RIGHTAPPS\Downloads\EMAILBLASTING\EMAILBLASTING\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.pdb
+C:\Users\RIGHTAPPS\Downloads\EMAILBLASTING\EMAILBLASTING\GSMModem_s\GSMModem\bin\Debug\GSMModem.exe
+C:\Users\RIGHTAPPS\Downloads\EMAILBLASTING\EMAILBLASTING\GSMModem_s\GSMModem\bin\Debug\GSMModem.pdb
+C:\Users\RIGHTAPPS\Downloads\EMAILBLASTING\EMAILBLASTING\GSMModem_s\GSMModem\bin\Debug\Npgsql.dll
+C:\Users\RIGHTAPPS\Downloads\EMAILBLASTING\EMAILBLASTING\GSMModem_s\GSMModem\bin\Debug\Npgsql.xml
+C:\Users\RIGHTAPPS\Downloads\EMAILBLASTING\EMAILBLASTING\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.csprojResolveAssemblyReference.cache
+C:\Users\RIGHTAPPS\Downloads\EMAILBLASTING\EMAILBLASTING\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.EmailBlasting.resources
+C:\Users\RIGHTAPPS\Downloads\EMAILBLASTING\EMAILBLASTING\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.Form1.resources
+C:\Users\RIGHTAPPS\Downloads\EMAILBLASTING\EMAILBLASTING\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.Properties.Resources.resources
+C:\Users\RIGHTAPPS\Downloads\EMAILBLASTING\EMAILBLASTING\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.SMS.resources
+C:\Users\RIGHTAPPS\Downloads\EMAILBLASTING\EMAILBLASTING\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.csproj.GenerateResource.Cache
+C:\Users\lourence\Desktop\REX_CURRENT_MERGE\EMAILBLASTING\GSMModem_s\GSMModem\bin\Debug\GSMModem.exe.config
+C:\Users\lourence\Desktop\REX_CURRENT_MERGE\EMAILBLASTING\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.exe
+C:\Users\lourence\Desktop\REX_CURRENT_MERGE\EMAILBLASTING\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.pdb
+C:\Users\lourence\Desktop\REX_CURRENT_MERGE\EMAILBLASTING\GSMModem_s\GSMModem\bin\Debug\GSMModem.exe
+C:\Users\lourence\Desktop\REX_CURRENT_MERGE\EMAILBLASTING\GSMModem_s\GSMModem\bin\Debug\GSMModem.pdb
+C:\Users\lourence\Desktop\REX_CURRENT_MERGE\EMAILBLASTING\GSMModem_s\GSMModem\bin\Debug\Npgsql.dll
+C:\Users\lourence\Desktop\REX_CURRENT_MERGE\EMAILBLASTING\GSMModem_s\GSMModem\bin\Debug\Npgsql.xml
+C:\Users\lourence\Desktop\REX_CURRENT_MERGE\EMAILBLASTING\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.EmailBlasting.resources
+C:\Users\lourence\Desktop\REX_CURRENT_MERGE\EMAILBLASTING\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.Form1.resources
+C:\Users\lourence\Desktop\REX_CURRENT_MERGE\EMAILBLASTING\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.Properties.Resources.resources
+C:\Users\lourence\Desktop\REX_CURRENT_MERGE\EMAILBLASTING\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.SMS.resources
+C:\Users\lourence\Desktop\REX_CURRENT_MERGE\EMAILBLASTING\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.csproj.GenerateResource.Cache
+C:\Users\lourence\Desktop\REX_CURRENT_MERGE\EMAILBLASTING\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.csprojResolveAssemblyReference.cache
+C:\Users\RIGHTAPPS\Desktop\mauto\EMAILBLASTING\GSMModem_s\GSMModem\bin\Debug\GSMModem.exe.config
+C:\Users\RIGHTAPPS\Desktop\mauto\EMAILBLASTING\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.exe
+C:\Users\RIGHTAPPS\Desktop\mauto\EMAILBLASTING\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.pdb
+C:\Users\RIGHTAPPS\Desktop\mauto\EMAILBLASTING\GSMModem_s\GSMModem\bin\Debug\GSMModem.exe
+C:\Users\RIGHTAPPS\Desktop\mauto\EMAILBLASTING\GSMModem_s\GSMModem\bin\Debug\GSMModem.pdb
+C:\Users\RIGHTAPPS\Desktop\mauto\EMAILBLASTING\GSMModem_s\GSMModem\bin\Debug\Npgsql.dll
+C:\Users\RIGHTAPPS\Desktop\mauto\EMAILBLASTING\GSMModem_s\GSMModem\bin\Debug\Npgsql.xml
+C:\Users\RIGHTAPPS\Desktop\mauto\EMAILBLASTING\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.csprojResolveAssemblyReference.cache
+C:\Users\RIGHTAPPS\Desktop\mauto\EMAILBLASTING\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.EmailBlasting.resources
+C:\Users\RIGHTAPPS\Desktop\mauto\EMAILBLASTING\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.Form1.resources
+C:\Users\RIGHTAPPS\Desktop\mauto\EMAILBLASTING\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.Properties.Resources.resources
+C:\Users\RIGHTAPPS\Desktop\mauto\EMAILBLASTING\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.SMS.resources
+C:\Users\RIGHTAPPS\Desktop\mauto\EMAILBLASTING\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.csproj.GenerateResource.Cache
+C:\Users\RIGHTAPPS\Desktop\datablasting\GSMModem_s\GSMModem\bin\Debug\GSMModem.exe.config
+C:\Users\RIGHTAPPS\Desktop\datablasting\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.exe
+C:\Users\RIGHTAPPS\Desktop\datablasting\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.pdb
+C:\Users\RIGHTAPPS\Desktop\datablasting\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.csprojResolveAssemblyReference.cache
+C:\Users\RIGHTAPPS\Desktop\datablasting\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.EmailBlasting.resources
+C:\Users\RIGHTAPPS\Desktop\datablasting\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.Form1.resources
+C:\Users\RIGHTAPPS\Desktop\datablasting\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.Properties.Resources.resources
+C:\Users\RIGHTAPPS\Desktop\datablasting\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.SMS.resources
+C:\Users\RIGHTAPPS\Desktop\datablasting\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.csproj.GenerateResource.Cache
+C:\Users\RIGHTAPPS\Desktop\datablasting\GSMModem_s\GSMModem\bin\Debug\GSMModem.exe
+C:\Users\RIGHTAPPS\Desktop\datablasting\GSMModem_s\GSMModem\bin\Debug\GSMModem.pdb
+C:\Users\RIGHTAPPS\Desktop\datablasting\GSMModem_s\GSMModem\bin\Debug\Npgsql.dll
+C:\Users\RIGHTAPPS\Desktop\datablasting\GSMModem_s\GSMModem\bin\Debug\Npgsql.xml
+D:\06-08-2017\Desktop\datablasting\GSMModem_s\GSMModem\bin\Debug\GSMModem.exe.config
+D:\06-08-2017\Desktop\datablasting\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.exe
+D:\06-08-2017\Desktop\datablasting\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.pdb
+C:\Users\RIGHTAPPS-PC\Documents\GSMModem_s\GSMModem\bin\Debug\GSMModem.exe.config
+C:\Users\RIGHTAPPS-PC\Documents\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.exe
+C:\Users\RIGHTAPPS-PC\Documents\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.pdb
+C:\Users\RIGHTAPPS-PC\Documents\GSMModem_s\GSMModem\bin\Debug\GSMModem.exe
+C:\Users\RIGHTAPPS-PC\Documents\GSMModem_s\GSMModem\bin\Debug\GSMModem.pdb
+C:\Users\RIGHTAPPS-PC\Documents\GSMModem_s\GSMModem\bin\Debug\Npgsql.dll
+C:\Users\RIGHTAPPS-PC\Documents\GSMModem_s\GSMModem\bin\Debug\Npgsql.xml
+C:\Users\RIGHTAPPS-PC\Documents\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.csprojResolveAssemblyReference.cache
+C:\Users\RIGHTAPPS-PC\Documents\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.EmailBlasting.resources
+C:\Users\RIGHTAPPS-PC\Documents\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.Form1.resources
+C:\Users\RIGHTAPPS-PC\Documents\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.Properties.Resources.resources
+C:\Users\RIGHTAPPS-PC\Documents\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.SMS.resources
+C:\Users\RIGHTAPPS-PC\Documents\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.csproj.GenerateResource.Cache
+D:\RSS Projects\Auto Background Support\DataTransfer\GSMModem\bin\Debug\GSMModem.exe.config
+D:\RSS Projects\Auto Background Support\DataTransfer\GSMModem\obj\x86\Debug\GSMModem.exe
+D:\RSS Projects\Auto Background Support\DataTransfer\GSMModem\obj\x86\Debug\GSMModem.pdb
+D:\RSS Projects\Auto Background Support\DataTransfer\GSMModem\bin\Debug\GSMModem.exe
+D:\RSS Projects\Auto Background Support\DataTransfer\GSMModem\bin\Debug\GSMModem.pdb
+D:\RSS Projects\Auto Background Support\DataTransfer\GSMModem\bin\Debug\Npgsql.dll
+D:\RSS Projects\Auto Background Support\DataTransfer\GSMModem\bin\Debug\Npgsql.xml
+D:\RSS Projects\Auto Background Support\DataTransfer\GSMModem\obj\x86\Debug\GSMModem.EmailBlasting.resources
+D:\RSS Projects\Auto Background Support\DataTransfer\GSMModem\obj\x86\Debug\GSMModem.Form1.resources
+D:\RSS Projects\Auto Background Support\DataTransfer\GSMModem\obj\x86\Debug\GSMModem.Properties.Resources.resources
+D:\RSS Projects\Auto Background Support\DataTransfer\GSMModem\obj\x86\Debug\GSMModem.SMS.resources
+D:\RSS Projects\Auto Background Support\DataTransfer\GSMModem\obj\x86\Debug\GSMModem.csproj.GenerateResource.Cache
+D:\RSS Projects\Auto Background Support\DataTransfer\GSMModem\bin\Debug\GSMModem.exe.manifest
+D:\RSS Projects\Auto Background Support\DataTransfer\GSMModem\bin\Debug\GSMModem.application
+D:\RSS Projects\Auto Background Support\DataTransfer\GSMModem\obj\x86\Debug\GSMModem.exe.manifest
+D:\RSS Projects\Auto Background Support\DataTransfer\GSMModem\obj\x86\Debug\GSMModem.application

@@ -1,0 +1,167 @@
+C:\Users\RIGHTAPPS\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\Auto_SentGenerate_Reports.exe.config
+C:\Users\RIGHTAPPS\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\Auto_SentGenerate_Reports.exe
+C:\Users\RIGHTAPPS\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\Auto_SentGenerate_Reports.pdb
+C:\Users\RIGHTAPPS\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.csprojResolveAssemblyReference.cache
+C:\Users\RIGHTAPPS\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.Form1.resources
+C:\Users\RIGHTAPPS\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.Properties.Resources.resources
+C:\Users\RIGHTAPPS\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.csproj.GenerateResource.Cache
+C:\Users\RIGHTAPPS\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.exe
+C:\Users\RIGHTAPPS\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.pdb
+C:\Users\RIGHTAPPS\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Interop.CrystalReportsCommonObjectModelLib.dll
+C:\Users\RIGHTAPPS\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Interop.CrystalReportViewerExportLib.dll
+C:\Users\RIGHTAPPS\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.csproj.ResolveComReference.cache
+C:\Users\RIGHTAPPS\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\Mono.Security.dll
+C:\Users\RIGHTAPPS\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\Npgsql.xml
+C:\Users\RIGHTAPPS\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\de\Npgsql.resources.dll
+C:\Users\RIGHTAPPS\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\es\Npgsql.resources.dll
+C:\Users\RIGHTAPPS\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\RIGHTAPPS\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\RIGHTAPPS\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\RIGHTAPPS\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\RA-PC1\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\Auto_SentGenerate_Reports.exe.config
+C:\Users\RA-PC1\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Interop.CrystalReportsCommonObjectModelLib.dll
+C:\Users\RA-PC1\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Interop.CrystalReportViewerExportLib.dll
+C:\Users\RA-PC1\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.csproj.ResolveComReference.cache
+C:\Users\RA-PC1\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.exe
+C:\Users\RA-PC1\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.pdb
+C:\Users\RA-PC1\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\Auto_SentGenerate_Reports.exe
+C:\Users\RA-PC1\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\Auto_SentGenerate_Reports.pdb
+C:\Users\RA-PC1\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.Form1.resources
+C:\Users\RA-PC1\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.Properties.Resources.resources
+C:\Users\RA-PC1\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.csproj.GenerateResource.Cache
+C:\Users\RA-PC1\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\EntityFramework.dll
+C:\Users\RA-PC1\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RA-PC1\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\EntityFramework.xml
+C:\Users\RA-PC1\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RA-PC1\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.SMS.resources
+C:\Users\RA-PC1\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\Npgsql.dll
+C:\Users\RA-PC1\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\Mono.Security.dll
+C:\Users\RA-PC1\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\Npgsql.xml
+C:\Users\RA-PC1\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\de\Npgsql.resources.dll
+C:\Users\RA-PC1\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\es\Npgsql.resources.dll
+C:\Users\RA-PC1\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\RA-PC1\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\RA-PC1\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\RA-PC1\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\RA-PC1\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.csprojResolveAssemblyReference.cache
+C:\Users\RIGHTAPPS\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\EntityFramework.dll
+C:\Users\RIGHTAPPS\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RIGHTAPPS\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\EntityFramework.xml
+C:\Users\RIGHTAPPS\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RIGHTAPPS\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.SMS.resources
+D:\06-08-2017\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\Auto_SentGenerate_Reports.exe.config
+D:\06-08-2017\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Interop.CrystalReportsCommonObjectModelLib.dll
+D:\06-08-2017\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Interop.CrystalReportViewerExportLib.dll
+D:\06-08-2017\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.csproj.ResolveComReference.cache
+D:\06-08-2017\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.exe
+D:\06-08-2017\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.pdb
+D:\06-08-2017\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\Auto_SentGenerate_Reports.exe
+D:\06-08-2017\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\Auto_SentGenerate_Reports.pdb
+D:\06-08-2017\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\EntityFramework.dll
+D:\06-08-2017\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\EntityFramework.SqlServer.dll
+D:\06-08-2017\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\Mono.Security.dll
+D:\06-08-2017\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\EntityFramework.xml
+D:\06-08-2017\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\EntityFramework.SqlServer.xml
+D:\06-08-2017\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\Npgsql.xml
+D:\06-08-2017\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\de\Npgsql.resources.dll
+D:\06-08-2017\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\es\Npgsql.resources.dll
+D:\06-08-2017\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\fi\Npgsql.resources.dll
+D:\06-08-2017\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\fr\Npgsql.resources.dll
+D:\06-08-2017\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\ja\Npgsql.resources.dll
+D:\06-08-2017\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\zh-CN\Npgsql.resources.dll
+D:\06-08-2017\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.csprojResolveAssemblyReference.cache
+D:\06-08-2017\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.Form1.resources
+D:\06-08-2017\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.Properties.Resources.resources
+D:\06-08-2017\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.SMS.resources
+D:\06-08-2017\Desktop\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.csproj.GenerateResource.Cache
+C:\Users\RIGHTAPPS-PC\Documents\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\Auto_SentGenerate_Reports.exe.config
+C:\Users\RIGHTAPPS-PC\Documents\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Interop.CrystalReportsCommonObjectModelLib.dll
+C:\Users\RIGHTAPPS-PC\Documents\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Interop.CrystalReportViewerExportLib.dll
+C:\Users\RIGHTAPPS-PC\Documents\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.csproj.ResolveComReference.cache
+C:\Users\RIGHTAPPS-PC\Documents\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.exe
+C:\Users\RIGHTAPPS-PC\Documents\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.pdb
+C:\Users\RIGHTAPPS-PC\Documents\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\Auto_SentGenerate_Reports.exe
+C:\Users\RIGHTAPPS-PC\Documents\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\Auto_SentGenerate_Reports.pdb
+C:\Users\RIGHTAPPS-PC\Documents\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\EntityFramework.dll
+C:\Users\RIGHTAPPS-PC\Documents\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RIGHTAPPS-PC\Documents\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\Mono.Security.dll
+C:\Users\RIGHTAPPS-PC\Documents\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\EntityFramework.xml
+C:\Users\RIGHTAPPS-PC\Documents\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RIGHTAPPS-PC\Documents\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\Npgsql.xml
+C:\Users\RIGHTAPPS-PC\Documents\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\de\Npgsql.resources.dll
+C:\Users\RIGHTAPPS-PC\Documents\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\es\Npgsql.resources.dll
+C:\Users\RIGHTAPPS-PC\Documents\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\RIGHTAPPS-PC\Documents\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\RIGHTAPPS-PC\Documents\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\RIGHTAPPS-PC\Documents\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\RIGHTAPPS-PC\Documents\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.csprojResolveAssemblyReference.cache
+C:\Users\RIGHTAPPS-PC\Documents\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.Form1.resources
+C:\Users\RIGHTAPPS-PC\Documents\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.Properties.Resources.resources
+C:\Users\RIGHTAPPS-PC\Documents\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.SMS.resources
+C:\Users\RIGHTAPPS-PC\Documents\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.csproj.GenerateResource.Cache
+D:\RSS Projects\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\Auto_SentGenerate_Reports.exe.config
+D:\RSS Projects\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\Auto_SentGenerate_Reports.exe.manifest
+D:\RSS Projects\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\Auto_SentGenerate_Reports.application
+D:\RSS Projects\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\Auto_SentGenerate_Reports.exe
+D:\RSS Projects\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\Auto_SentGenerate_Reports.pdb
+D:\RSS Projects\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\EntityFramework.dll
+D:\RSS Projects\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\EntityFramework.SqlServer.dll
+D:\RSS Projects\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\Npgsql.dll
+D:\RSS Projects\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\Mono.Security.dll
+D:\RSS Projects\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\EntityFramework.xml
+D:\RSS Projects\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\EntityFramework.SqlServer.xml
+D:\RSS Projects\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Interop.CrystalReportsCommonObjectModelLib.dll
+D:\RSS Projects\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Interop.CrystalReportViewerExportLib.dll
+D:\RSS Projects\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.csproj.ResolveComReference.cache
+D:\RSS Projects\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.Form1.resources
+D:\RSS Projects\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.Properties.Resources.resources
+D:\RSS Projects\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.SMS.resources
+D:\RSS Projects\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.csproj.GenerateResource.Cache
+D:\RSS Projects\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.exe.manifest
+D:\RSS Projects\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.application
+D:\RSS Projects\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.exe
+D:\RSS Projects\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.pdb
+D:\RSS Projects\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.csprojResolveAssemblyReference.cache
+\\RIGHTAPPS\RSS Projects 2018\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\Auto_SentGenerate_Reports.exe.config
+\\RIGHTAPPS\RSS Projects 2018\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Interop.CrystalReportsCommonObjectModelLib.dll
+\\RIGHTAPPS\RSS Projects 2018\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Interop.CrystalReportViewerExportLib.dll
+\\RIGHTAPPS\RSS Projects 2018\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.csproj.ResolveComReference.cache
+\\RIGHTAPPS\RSS Projects 2018\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.exe
+\\RIGHTAPPS\RSS Projects 2018\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.pdb
+\\RIGHTAPPS\RSS Projects 2018\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.csprojResolveAssemblyReference.cache
+\\RIGHTAPPS\RSS Projects 2018\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.Form1.resources
+\\RIGHTAPPS\RSS Projects 2018\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.Properties.Resources.resources
+\\RIGHTAPPS\RSS Projects 2018\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.SMS.resources
+\\RIGHTAPPS\RSS Projects 2018\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.csproj.GenerateResource.Cache
+D:\REANCY\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\Auto_SentGenerate_Reports.exe.config
+D:\REANCY\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\Auto_SentGenerate_Reports.exe.manifest
+D:\REANCY\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\Auto_SentGenerate_Reports.application
+D:\REANCY\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\Auto_SentGenerate_Reports.exe
+D:\REANCY\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\Auto_SentGenerate_Reports.pdb
+D:\REANCY\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\EmailBlast.exe
+D:\REANCY\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\EntityFramework.dll
+D:\REANCY\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\Mono.Security.dll
+D:\REANCY\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\Npgsql.dll
+D:\REANCY\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\Npgsql.EntityFrameworkLegacy.dll
+D:\REANCY\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\EmailBlast.pdb
+D:\REANCY\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\EntityFramework.xml
+D:\REANCY\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\Npgsql.xml
+D:\REANCY\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\Npgsql.EntityFrameworkLegacy.xml
+D:\REANCY\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\de\Npgsql.resources.dll
+D:\REANCY\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\es\Npgsql.resources.dll
+D:\REANCY\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\fi\Npgsql.resources.dll
+D:\REANCY\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\fr\Npgsql.resources.dll
+D:\REANCY\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\ja\Npgsql.resources.dll
+D:\REANCY\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\bin\Debug\zh-CN\Npgsql.resources.dll
+D:\REANCY\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.csprojResolveAssemblyReference.cache
+D:\REANCY\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Interop.CrystalReportsCommonObjectModelLib.dll
+D:\REANCY\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Interop.CrystalReportViewerExportLib.dll
+D:\REANCY\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.csproj.ResolveComReference.cache
+D:\REANCY\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.Form1.resources
+D:\REANCY\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.Properties.Resources.resources
+D:\REANCY\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.SMS.resources
+D:\REANCY\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.csproj.GenerateResource.Cache
+D:\REANCY\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.exe.manifest
+D:\REANCY\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.application
+D:\REANCY\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.exe
+D:\REANCY\Auto Background Support\Auto_SentGenerate_Reports\Auto_SentGenerate_Reports\obj\Debug\Auto_SentGenerate_Reports.pdb

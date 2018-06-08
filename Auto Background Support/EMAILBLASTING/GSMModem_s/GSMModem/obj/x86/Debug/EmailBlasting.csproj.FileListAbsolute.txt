@@ -1,0 +1,34 @@
+D:\06-08-2017\Downloads\EMAILBLASTING\EMAILBLASTING\GSMModem_s\GSMModem\bin\Debug\Npgsql.dll
+D:\06-08-2017\Downloads\EMAILBLASTING\EMAILBLASTING\GSMModem_s\GSMModem\bin\Debug\Npgsql.xml
+D:\06-08-2017\Downloads\EMAILBLASTING\EMAILBLASTING\GSMModem_s\GSMModem\obj\x86\Debug\EmailBlasting.csprojResolveAssemblyReference.cache
+D:\06-08-2017\Downloads\EMAILBLASTING\EMAILBLASTING\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.EmailBlasting.resources
+D:\06-08-2017\Downloads\EMAILBLASTING\EMAILBLASTING\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.Form1.resources
+D:\06-08-2017\Downloads\EMAILBLASTING\EMAILBLASTING\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.SMS.resources
+D:\06-08-2017\Downloads\EMAILBLASTING\EMAILBLASTING\GSMModem_s\GSMModem\obj\x86\Debug\EmailBlasting.csproj.GenerateResource.Cache
+D:\06-08-2017\Downloads\EMAILBLASTING\EMAILBLASTING\GSMModem_s\GSMModem\bin\Debug\EmailBlast.exe.config
+D:\06-08-2017\Downloads\EMAILBLASTING\EMAILBLASTING\GSMModem_s\GSMModem\bin\Debug\EmailBlast.exe.manifest
+D:\06-08-2017\Downloads\EMAILBLASTING\EMAILBLASTING\GSMModem_s\GSMModem\bin\Debug\EmailBlast.application
+D:\06-08-2017\Downloads\EMAILBLASTING\EMAILBLASTING\GSMModem_s\GSMModem\bin\Debug\EmailBlast.exe
+D:\06-08-2017\Downloads\EMAILBLASTING\EMAILBLASTING\GSMModem_s\GSMModem\bin\Debug\EmailBlast.pdb
+D:\06-08-2017\Downloads\EMAILBLASTING\EMAILBLASTING\GSMModem_s\GSMModem\obj\x86\Debug\EmailBlast.Properties.Resources.resources
+D:\06-08-2017\Downloads\EMAILBLASTING\EMAILBLASTING\GSMModem_s\GSMModem\obj\x86\Debug\EmailBlast.exe.manifest
+D:\06-08-2017\Downloads\EMAILBLASTING\EMAILBLASTING\GSMModem_s\GSMModem\obj\x86\Debug\EmailBlast.application
+D:\06-08-2017\Downloads\EMAILBLASTING\EMAILBLASTING\GSMModem_s\GSMModem\obj\x86\Debug\EmailBlast.exe
+D:\06-08-2017\Downloads\EMAILBLASTING\EMAILBLASTING\GSMModem_s\GSMModem\obj\x86\Debug\EmailBlast.pdb
+C:\Users\RIGHT APPS\Desktop\EMAILBLASTING\GSMModem_s\GSMModem\bin\Debug\EmailBlast.exe.config
+C:\Users\RIGHT APPS\Desktop\EMAILBLASTING\GSMModem_s\GSMModem\obj\x86\Debug\EmailBlast.exe
+C:\Users\RIGHT APPS\Desktop\EMAILBLASTING\GSMModem_s\GSMModem\obj\x86\Debug\EmailBlast.pdb
+C:\Users\RIGHT APPS\Desktop\EMAILBLASTING\GSMModem_s\GSMModem\bin\Debug\EmailBlast.exe.manifest
+C:\Users\RIGHT APPS\Desktop\EMAILBLASTING\GSMModem_s\GSMModem\bin\Debug\EmailBlast.application
+C:\Users\RIGHT APPS\Desktop\EMAILBLASTING\GSMModem_s\GSMModem\bin\Debug\EmailBlast.exe
+C:\Users\RIGHT APPS\Desktop\EMAILBLASTING\GSMModem_s\GSMModem\bin\Debug\EmailBlast.pdb
+C:\Users\RIGHT APPS\Desktop\EMAILBLASTING\GSMModem_s\GSMModem\bin\Debug\Npgsql.dll
+C:\Users\RIGHT APPS\Desktop\EMAILBLASTING\GSMModem_s\GSMModem\bin\Debug\Npgsql.xml
+C:\Users\RIGHT APPS\Desktop\EMAILBLASTING\GSMModem_s\GSMModem\obj\x86\Debug\EmailBlasting.csprojResolveAssemblyReference.cache
+C:\Users\RIGHT APPS\Desktop\EMAILBLASTING\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.EmailBlasting.resources
+C:\Users\RIGHT APPS\Desktop\EMAILBLASTING\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.Form1.resources
+C:\Users\RIGHT APPS\Desktop\EMAILBLASTING\GSMModem_s\GSMModem\obj\x86\Debug\EmailBlast.Properties.Resources.resources
+C:\Users\RIGHT APPS\Desktop\EMAILBLASTING\GSMModem_s\GSMModem\obj\x86\Debug\GSMModem.SMS.resources
+C:\Users\RIGHT APPS\Desktop\EMAILBLASTING\GSMModem_s\GSMModem\obj\x86\Debug\EmailBlasting.csproj.GenerateResource.Cache
+C:\Users\RIGHT APPS\Desktop\EMAILBLASTING\GSMModem_s\GSMModem\obj\x86\Debug\EmailBlast.exe.manifest
+C:\Users\RIGHT APPS\Desktop\EMAILBLASTING\GSMModem_s\GSMModem\obj\x86\Debug\EmailBlast.application

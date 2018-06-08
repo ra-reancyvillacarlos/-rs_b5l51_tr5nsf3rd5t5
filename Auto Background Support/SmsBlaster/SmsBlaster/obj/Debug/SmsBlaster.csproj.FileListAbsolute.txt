@@ -1,0 +1,152 @@
+C:\Documents and Settings\paul\My Documents\Visual Studio 2008\Projects\SmsBlaster\SmsBlaster\bin\Debug\SmsBlaster.exe.manifest
+C:\Documents and Settings\paul\My Documents\Visual Studio 2008\Projects\SmsBlaster\SmsBlaster\bin\Debug\SmsBlaster.application
+C:\Documents and Settings\paul\My Documents\Visual Studio 2008\Projects\SmsBlaster\SmsBlaster\bin\Debug\SmsBlaster.exe
+C:\Documents and Settings\paul\My Documents\Visual Studio 2008\Projects\SmsBlaster\SmsBlaster\bin\Debug\SmsBlaster.pdb
+C:\Documents and Settings\paul\My Documents\Visual Studio 2008\Projects\SmsBlaster\SmsBlaster\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\paul\My Documents\Visual Studio 2008\Projects\SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.Main.resources
+C:\Documents and Settings\paul\My Documents\Visual Studio 2008\Projects\SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.Properties.Resources.resources
+C:\Documents and Settings\paul\My Documents\Visual Studio 2008\Projects\SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.csproj.GenerateResource.Cache
+C:\Documents and Settings\paul\My Documents\Visual Studio 2008\Projects\SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.exe.manifest
+C:\Documents and Settings\paul\My Documents\Visual Studio 2008\Projects\SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.application
+C:\Documents and Settings\paul\My Documents\Visual Studio 2008\Projects\SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.exe
+C:\Documents and Settings\paul\My Documents\Visual Studio 2008\Projects\SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.pdb
+C:\Documents and Settings\paul\My Documents\Visual Studio 2008\Projects\SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.frmProgress.resources
+C:\Documents and Settings\paul\My Documents\Visual Studio 2008\Projects\TEKSOURCE SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.exe
+C:\Documents and Settings\paul\My Documents\Visual Studio 2008\Projects\TEKSOURCE SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.pdb
+C:\Documents and Settings\paul\My Documents\Visual Studio 2008\Projects\AMHM SmsBlaster\SmsBlaster\bin\Debug\SmsBlaster.exe.manifest
+C:\Documents and Settings\paul\My Documents\Visual Studio 2008\Projects\AMHM SmsBlaster\SmsBlaster\bin\Debug\SmsBlaster.application
+C:\Documents and Settings\paul\My Documents\Visual Studio 2008\Projects\AMHM SmsBlaster\SmsBlaster\bin\Debug\SmsBlaster.exe
+C:\Documents and Settings\paul\My Documents\Visual Studio 2008\Projects\AMHM SmsBlaster\SmsBlaster\bin\Debug\SmsBlaster.pdb
+C:\Documents and Settings\paul\My Documents\Visual Studio 2008\Projects\AMHM SmsBlaster\SmsBlaster\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\paul\My Documents\Visual Studio 2008\Projects\AMHM SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.Main.resources
+C:\Documents and Settings\paul\My Documents\Visual Studio 2008\Projects\AMHM SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.Properties.Resources.resources
+C:\Documents and Settings\paul\My Documents\Visual Studio 2008\Projects\AMHM SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.csproj.GenerateResource.Cache
+C:\Documents and Settings\paul\My Documents\Visual Studio 2008\Projects\AMHM SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.exe.manifest
+C:\Documents and Settings\paul\My Documents\Visual Studio 2008\Projects\AMHM SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.application
+C:\Documents and Settings\paul\My Documents\Visual Studio 2008\Projects\AMHM SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.exe
+C:\Documents and Settings\paul\My Documents\Visual Studio 2008\Projects\AMHM SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.pdb
+C:\Users\pauldaniel\Documents\Visual Studio 2008\Projects\AMHM SmsBlaster\SmsBlaster\bin\Debug\SmsBlaster.exe.manifest
+C:\Users\pauldaniel\Documents\Visual Studio 2008\Projects\AMHM SmsBlaster\SmsBlaster\bin\Debug\SmsBlaster.application
+C:\Users\pauldaniel\Documents\Visual Studio 2008\Projects\AMHM SmsBlaster\SmsBlaster\bin\Debug\SmsBlaster.exe
+C:\Users\pauldaniel\Documents\Visual Studio 2008\Projects\AMHM SmsBlaster\SmsBlaster\bin\Debug\SmsBlaster.pdb
+C:\Users\pauldaniel\Documents\Visual Studio 2008\Projects\AMHM SmsBlaster\SmsBlaster\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pauldaniel\Documents\Visual Studio 2008\Projects\AMHM SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.Main.resources
+C:\Users\pauldaniel\Documents\Visual Studio 2008\Projects\AMHM SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.Properties.Resources.resources
+C:\Users\pauldaniel\Documents\Visual Studio 2008\Projects\AMHM SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.csproj.GenerateResource.Cache
+C:\Users\pauldaniel\Documents\Visual Studio 2008\Projects\AMHM SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.exe.manifest
+C:\Users\pauldaniel\Documents\Visual Studio 2008\Projects\AMHM SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.application
+C:\Users\pauldaniel\Documents\Visual Studio 2008\Projects\AMHM SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.exe
+C:\Users\pauldaniel\Documents\Visual Studio 2008\Projects\AMHM SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.pdb
+D:\RA Developers\SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.exe
+D:\RA Developers\SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.pdb
+D:\RA Developers\SmsBlaster\SmsBlaster\bin\Debug\SmsBlaster.exe.manifest
+D:\RA Developers\SmsBlaster\SmsBlaster\bin\Debug\SmsBlaster.application
+D:\RA Developers\SmsBlaster\SmsBlaster\bin\Debug\SmsBlaster.exe
+D:\RA Developers\SmsBlaster\SmsBlaster\bin\Debug\SmsBlaster.pdb
+D:\RA Developers\SmsBlaster\SmsBlaster\obj\Debug\ResolveAssemblyReference.cache
+D:\RA Developers\SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.Main.resources
+D:\RA Developers\SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.Properties.Resources.resources
+D:\RA Developers\SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.csproj.GenerateResource.Cache
+D:\RA Developers\SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.exe.manifest
+D:\RA Developers\SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.application
+R:\SmsBlaster - Copy\SmsBlaster\obj\Debug\SmsBlaster.exe
+R:\SmsBlaster - Copy\SmsBlaster\obj\Debug\SmsBlaster.pdb
+R:\SmsBlaster - Copy\SmsBlaster\obj\Debug\SmsBlaster.csprojResolveAssemblyReference.cache
+R:\SmsBlaster - Copy\SmsBlaster\obj\Debug\SmsBlaster.Main.resources
+R:\SmsBlaster - Copy\SmsBlaster\obj\Debug\SmsBlaster.Properties.Resources.resources
+R:\SmsBlaster - Copy\SmsBlaster\obj\Debug\SmsBlaster.csproj.GenerateResource.Cache
+R:\SmsBlaster - Copy\SmsBlaster\bin\Debug\SmsBlaster.exe.manifest
+R:\SmsBlaster - Copy\SmsBlaster\bin\Debug\SmsBlaster.application
+R:\SmsBlaster - Copy\SmsBlaster\bin\Debug\SmsBlaster.exe
+R:\SmsBlaster - Copy\SmsBlaster\bin\Debug\SmsBlaster.pdb
+R:\SmsBlaster - Copy\SmsBlaster\obj\Debug\SmsBlaster.exe.manifest
+R:\SmsBlaster - Copy\SmsBlaster\obj\Debug\SmsBlaster.application
+E:\rightapps\SmsBlaster - Copy\SmsBlaster\obj\Debug\SmsBlaster.exe
+E:\rightapps\SmsBlaster - Copy\SmsBlaster\obj\Debug\SmsBlaster.pdb
+E:\rightapps\SmsBlaster - Copy\SmsBlaster\bin\Debug\SmsBlaster.exe.manifest
+E:\rightapps\SmsBlaster - Copy\SmsBlaster\bin\Debug\SmsBlaster.application
+E:\rightapps\SmsBlaster - Copy\SmsBlaster\bin\Debug\SmsBlaster.exe
+E:\rightapps\SmsBlaster - Copy\SmsBlaster\bin\Debug\SmsBlaster.pdb
+E:\rightapps\SmsBlaster - Copy\SmsBlaster\obj\Debug\SmsBlaster.csprojResolveAssemblyReference.cache
+E:\rightapps\SmsBlaster - Copy\SmsBlaster\obj\Debug\SmsBlaster.Main.resources
+E:\rightapps\SmsBlaster - Copy\SmsBlaster\obj\Debug\SmsBlaster.Properties.Resources.resources
+E:\rightapps\SmsBlaster - Copy\SmsBlaster\obj\Debug\SmsBlaster.csproj.GenerateResource.Cache
+E:\rightapps\SmsBlaster - Copy\SmsBlaster\obj\Debug\SmsBlaster.exe.manifest
+E:\rightapps\SmsBlaster - Copy\SmsBlaster\obj\Debug\SmsBlaster.application
+C:\Users\User\Documents\RA Developers\guitar-tutorial\SmsBlaster - Copy\SmsBlaster\obj\Debug\SmsBlaster.exe
+C:\Users\User\Documents\RA Developers\guitar-tutorial\SmsBlaster - Copy\SmsBlaster\obj\Debug\SmsBlaster.pdb
+C:\Users\User\Documents\RA Developers\guitar-tutorial\SmsBlaster - Copy\SmsBlaster\obj\Debug\SmsBlaster.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\RA Developers\guitar-tutorial\SmsBlaster - Copy\SmsBlaster\obj\Debug\SmsBlaster.Main.resources
+C:\Users\User\Documents\RA Developers\guitar-tutorial\SmsBlaster - Copy\SmsBlaster\obj\Debug\SmsBlaster.Properties.Resources.resources
+C:\Users\User\Documents\RA Developers\guitar-tutorial\SmsBlaster - Copy\SmsBlaster\obj\Debug\SmsBlaster.csproj.GenerateResource.Cache
+C:\Users\User\Documents\RA Developers\guitar-tutorial\SmsBlaster - Copy\SmsBlaster\bin\Debug\SmsBlaster.exe.manifest
+C:\Users\User\Documents\RA Developers\guitar-tutorial\SmsBlaster - Copy\SmsBlaster\bin\Debug\SmsBlaster.application
+C:\Users\User\Documents\RA Developers\guitar-tutorial\SmsBlaster - Copy\SmsBlaster\bin\Debug\SmsBlaster.exe
+C:\Users\User\Documents\RA Developers\guitar-tutorial\SmsBlaster - Copy\SmsBlaster\bin\Debug\SmsBlaster.pdb
+C:\Users\User\Documents\RA Developers\guitar-tutorial\SmsBlaster - Copy\SmsBlaster\obj\Debug\SmsBlaster.csproj.ResolveComReference.cache
+C:\Users\User\Documents\RA Developers\guitar-tutorial\SmsBlaster - Copy\SmsBlaster\obj\Debug\SmsBlaster.exe.manifest
+C:\Users\User\Documents\RA Developers\guitar-tutorial\SmsBlaster - Copy\SmsBlaster\obj\Debug\SmsBlaster.application
+C:\Users\User\Documents\RA Developers\SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\RA Developers\SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.csproj.ResolveComReference.cache
+C:\Users\User\Documents\RA Developers\SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.Main.resources
+C:\Users\User\Documents\RA Developers\SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.Properties.Resources.resources
+C:\Users\User\Documents\RA Developers\SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.csproj.GenerateResource.Cache
+C:\Users\User\Documents\RA Developers\SmsBlaster\SmsBlaster\bin\Debug\SmsBlaster.exe.config
+C:\RSS Project\BALAI\SmsBlaster\SmsBlaster\bin\Debug\SmsBlaster.exe.config
+C:\RSS Project\BALAI\SmsBlaster\SmsBlaster\bin\Debug\SmsBlaster.exe.manifest
+C:\RSS Project\BALAI\SmsBlaster\SmsBlaster\bin\Debug\SmsBlaster.application
+C:\RSS Project\BALAI\SmsBlaster\SmsBlaster\bin\Debug\SmsBlaster.exe
+C:\RSS Project\BALAI\SmsBlaster\SmsBlaster\bin\Debug\SmsBlaster.pdb
+C:\RSS Project\BALAI\SmsBlaster\SmsBlaster\bin\Debug\EntityFramework.dll
+C:\RSS Project\BALAI\SmsBlaster\SmsBlaster\bin\Debug\Mono.Security.dll
+C:\RSS Project\BALAI\SmsBlaster\SmsBlaster\bin\Debug\Npgsql.dll
+C:\RSS Project\BALAI\SmsBlaster\SmsBlaster\bin\Debug\Npgsql.EntityFrameworkLegacy.dll
+C:\RSS Project\BALAI\SmsBlaster\SmsBlaster\bin\Debug\EntityFramework.xml
+C:\RSS Project\BALAI\SmsBlaster\SmsBlaster\bin\Debug\Npgsql.xml
+C:\RSS Project\BALAI\SmsBlaster\SmsBlaster\bin\Debug\Npgsql.EntityFrameworkLegacy.xml
+C:\RSS Project\BALAI\SmsBlaster\SmsBlaster\bin\Debug\de\Npgsql.resources.dll
+C:\RSS Project\BALAI\SmsBlaster\SmsBlaster\bin\Debug\es\Npgsql.resources.dll
+C:\RSS Project\BALAI\SmsBlaster\SmsBlaster\bin\Debug\fi\Npgsql.resources.dll
+C:\RSS Project\BALAI\SmsBlaster\SmsBlaster\bin\Debug\fr\Npgsql.resources.dll
+C:\RSS Project\BALAI\SmsBlaster\SmsBlaster\bin\Debug\ja\Npgsql.resources.dll
+C:\RSS Project\BALAI\SmsBlaster\SmsBlaster\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\RSS Project\BALAI\SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.csprojResolveAssemblyReference.cache
+C:\RSS Project\BALAI\SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.csproj.ResolveComReference.cache
+C:\RSS Project\BALAI\SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.Main.resources
+C:\RSS Project\BALAI\SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.Properties.Resources.resources
+C:\RSS Project\BALAI\SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.csproj.GenerateResource.Cache
+C:\RSS Project\BALAI\SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.exe.manifest
+C:\RSS Project\BALAI\SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.application
+C:\RSS Project\BALAI\SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.exe
+C:\RSS Project\BALAI\SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.pdb
+D:\RSS Projects\Auto Background Support\SmsBlaster\SmsBlaster\bin\Debug\SmsBlaster.exe.config
+D:\RSS Projects\Auto Background Support\SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.csproj.ResolveComReference.cache
+D:\RSS Projects\Auto Background Support\SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.exe
+D:\RSS Projects\Auto Background Support\SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.pdb
+D:\REANCY\Auto Background Support\SmsBlaster\SmsBlaster\bin\Debug\SmsBlaster.exe.config
+D:\REANCY\Auto Background Support\SmsBlaster\SmsBlaster\bin\Debug\SmsBlaster.exe.manifest
+D:\REANCY\Auto Background Support\SmsBlaster\SmsBlaster\bin\Debug\SmsBlaster.application
+D:\REANCY\Auto Background Support\SmsBlaster\SmsBlaster\bin\Debug\SmsBlaster.exe
+D:\REANCY\Auto Background Support\SmsBlaster\SmsBlaster\bin\Debug\SmsBlaster.pdb
+D:\REANCY\Auto Background Support\SmsBlaster\SmsBlaster\bin\Debug\EntityFramework.dll
+D:\REANCY\Auto Background Support\SmsBlaster\SmsBlaster\bin\Debug\Mono.Security.dll
+D:\REANCY\Auto Background Support\SmsBlaster\SmsBlaster\bin\Debug\Npgsql.dll
+D:\REANCY\Auto Background Support\SmsBlaster\SmsBlaster\bin\Debug\Npgsql.EntityFrameworkLegacy.dll
+D:\REANCY\Auto Background Support\SmsBlaster\SmsBlaster\bin\Debug\EntityFramework.xml
+D:\REANCY\Auto Background Support\SmsBlaster\SmsBlaster\bin\Debug\Npgsql.xml
+D:\REANCY\Auto Background Support\SmsBlaster\SmsBlaster\bin\Debug\Npgsql.EntityFrameworkLegacy.xml
+D:\REANCY\Auto Background Support\SmsBlaster\SmsBlaster\bin\Debug\de\Npgsql.resources.dll
+D:\REANCY\Auto Background Support\SmsBlaster\SmsBlaster\bin\Debug\es\Npgsql.resources.dll
+D:\REANCY\Auto Background Support\SmsBlaster\SmsBlaster\bin\Debug\fi\Npgsql.resources.dll
+D:\REANCY\Auto Background Support\SmsBlaster\SmsBlaster\bin\Debug\fr\Npgsql.resources.dll
+D:\REANCY\Auto Background Support\SmsBlaster\SmsBlaster\bin\Debug\ja\Npgsql.resources.dll
+D:\REANCY\Auto Background Support\SmsBlaster\SmsBlaster\bin\Debug\zh-CN\Npgsql.resources.dll
+D:\REANCY\Auto Background Support\SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.csprojResolveAssemblyReference.cache
+D:\REANCY\Auto Background Support\SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.csproj.ResolveComReference.cache
+D:\REANCY\Auto Background Support\SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.Main.resources
+D:\REANCY\Auto Background Support\SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.Properties.Resources.resources
+D:\REANCY\Auto Background Support\SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.csproj.GenerateResource.Cache
+D:\REANCY\Auto Background Support\SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.exe.manifest
+D:\REANCY\Auto Background Support\SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.application
+D:\REANCY\Auto Background Support\SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.exe
+D:\REANCY\Auto Background Support\SmsBlaster\SmsBlaster\obj\Debug\SmsBlaster.pdb

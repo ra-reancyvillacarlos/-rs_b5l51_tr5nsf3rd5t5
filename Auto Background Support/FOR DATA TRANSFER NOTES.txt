@@ -1,0 +1,22 @@
+use the thisdatabase.cs and thisdatabase2.cs in main AHSI program .. 
+
+
+-- Table: rssys.transferdata
+
+-- DROP TABLE rssys.transferdata;
+
+CREATE TABLE rssys.transferdata
+(
+  tablename character varying(100),
+  col character varying(1000),
+  val character varying(1000),
+  cond character varying(1000),
+  action character varying(100),
+  transfercode bigserial NOT NULL,
+  CONSTRAINT transferdata_pkey PRIMARY KEY (transfercode)
+)
+WITH (
+  OIDS=FALSE
+);
+ALTER TABLE rssys.transferdata
+  OWNER TO postgres;

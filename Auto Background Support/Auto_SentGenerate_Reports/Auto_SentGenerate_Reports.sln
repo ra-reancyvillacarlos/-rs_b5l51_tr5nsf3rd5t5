@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auto_SentGenerate_Reports", "Auto_SentGenerate_Reports\Auto_SentGenerate_Reports.csproj", "{0103B6A0-25C0-4D1B-89A3-8D08403196BA}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4DEE012D-8A3A-41E9-8BFF-C88E32E28EEE} = {4DEE012D-8A3A-41E9-8BFF-C88E32E28EEE}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailBlasting", "..\EMAILBLASTING\GSMModem_s\GSMModem\EmailBlasting.csproj", "{4DEE012D-8A3A-41E9-8BFF-C88E32E28EEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0103B6A0-25C0-4D1B-89A3-8D08403196BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0103B6A0-25C0-4D1B-89A3-8D08403196BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0103B6A0-25C0-4D1B-89A3-8D08403196BA}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{0103B6A0-25C0-4D1B-89A3-8D08403196BA}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{0103B6A0-25C0-4D1B-89A3-8D08403196BA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0103B6A0-25C0-4D1B-89A3-8D08403196BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0103B6A0-25C0-4D1B-89A3-8D08403196BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0103B6A0-25C0-4D1B-89A3-8D08403196BA}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{0103B6A0-25C0-4D1B-89A3-8D08403196BA}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{0103B6A0-25C0-4D1B-89A3-8D08403196BA}.Release|x86.ActiveCfg = Release|Any CPU
+		{4DEE012D-8A3A-41E9-8BFF-C88E32E28EEE}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{4DEE012D-8A3A-41E9-8BFF-C88E32E28EEE}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{4DEE012D-8A3A-41E9-8BFF-C88E32E28EEE}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{4DEE012D-8A3A-41E9-8BFF-C88E32E28EEE}.Debug|x86.ActiveCfg = Debug|x86
+		{4DEE012D-8A3A-41E9-8BFF-C88E32E28EEE}.Debug|x86.Build.0 = Debug|x86
+		{4DEE012D-8A3A-41E9-8BFF-C88E32E28EEE}.Release|Any CPU.ActiveCfg = Release|x86
+		{4DEE012D-8A3A-41E9-8BFF-C88E32E28EEE}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{4DEE012D-8A3A-41E9-8BFF-C88E32E28EEE}.Release|Mixed Platforms.Build.0 = Release|x86
+		{4DEE012D-8A3A-41E9-8BFF-C88E32E28EEE}.Release|x86.ActiveCfg = Release|x86
+		{4DEE012D-8A3A-41E9-8BFF-C88E32E28EEE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,108 @@
+-- Table: rssys.auto_log
+
+-- DROP TABLE rssys.auto_log;
+
+CREATE TABLE rssys.auto_log
+(
+  identity character varying(100),
+  details character varying(200)
+)
+WITH (
+  OIDS=FALSE
+);
+ALTER TABLE rssys.auto_log
+  OWNER TO postgres;
+
+
+
+--------------------------------------------------
+
+
+-- Table: rssys.auto_email
+
+-- DROP TABLE rssys.auto_email;
+
+CREATE TABLE rssys.auto_email
+(
+  email character varying(100),
+  id character varying(8) NOT NULL,
+  CONSTRAINT auto_email_pkey PRIMARY KEY (id)
+)
+WITH (
+  OIDS=FALSE
+);
+ALTER TABLE rssys.auto_email
+  OWNER TO postgres;
+
+
+
+-----------------------------------------------------
+
+-- Table: rssys.auto_sms
+
+-- DROP TABLE rssys.auto_sms;
+
+CREATE TABLE rssys.auto_sms
+(
+  contact_no character varying(15),
+  id character varying(8) NOT NULL,
+  CONSTRAINT auto_sms_pkey PRIMARY KEY (id)
+)
+WITH (
+  OIDS=FALSE
+);
+ALTER TABLE rssys.auto_sms
+  OWNER TO postgres;
+
+ALTER TABLE rssys.m99 ADD COLUMN sched_time character varying(10);
+ALTER TABLE rssys.m99 ADD COLUMN sms_recipient_num character varying(25);
+
+//////////////////////////////////////////////////////////
+
+thisDatabase.cs
+///////////////////////////////////////////////
+ public String get_m99time()
+        {
+            String val = "";
+
+            DataTable dt = this.QueryOnTableWithParams("m99", "sched_time", "", "");
+            try
+            {
+                for (Int32 i = 0; i < dt.Rows.Count; i++)
+                {
+                    //tdate = Convert.ToDateTime(dt.Rows[i]["trnx_date"]).ToString("MMM dd, yyyy");
+                    val = dt.Rows[i]["sched_time"].ToString();
+                }
+            }
+            catch (Exception er)
+            { }
+
+            return val;
+        }
+        public String get_m99smsrecipient()
+        {
+            String val = "";
+
+            DataTable dt = this.QueryOnTableWithParams("m99", "sms_recipient_num", "", "");
+            try
+            {
+                for (Int32 i = 0; i < dt.Rows.Count; i++)
+                {
+                    //tdate = Convert.ToDateTime(dt.Rows[i]["trnx_date"]).ToString("MMM dd, yyyy");
+                    val = dt.Rows[i]["sms_recipient_num"].ToString();
+                }
+            }
+            catch (Exception er)
+            { }
+
+            return val;
+        }
+--------------------------------------------------
+
+m99.email_sender --> must be filled with sender email address
+m99.e_sender_password --> must be filled with sender email password
+
+MOST IMPORTANT PART FOR EMAIL SENDER ACCOUNT : https://myaccount.google.com/lesssecureapps?pli=1 
+gmail account must SET to LESS SECURED ACCOUNT .
+
+

@@ -1,0 +1,13 @@
+C:\Documents and Settings\paul\My Documents\Visual Studio 2008\Projects\SmsBlaster\SmsBlaster\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\paul\My Documents\Visual Studio 2008\Projects\SmsBlaster\SmsBlaster\obj\Release\SmsBlaster.frmProgress.resources
+C:\Documents and Settings\paul\My Documents\Visual Studio 2008\Projects\SmsBlaster\SmsBlaster\obj\Release\SmsBlaster.Main.resources
+C:\Documents and Settings\paul\My Documents\Visual Studio 2008\Projects\SmsBlaster\SmsBlaster\obj\Release\SmsBlaster.Properties.Resources.resources
+C:\Documents and Settings\paul\My Documents\Visual Studio 2008\Projects\SmsBlaster\SmsBlaster\obj\Release\SmsBlaster.csproj.GenerateResource.Cache
+C:\Documents and Settings\paul\My Documents\Visual Studio 2008\Projects\SmsBlaster\SmsBlaster\bin\Release\SmsBlaster.exe.manifest
+C:\Documents and Settings\paul\My Documents\Visual Studio 2008\Projects\SmsBlaster\SmsBlaster\bin\Release\SmsBlaster.application
+C:\Documents and Settings\paul\My Documents\Visual Studio 2008\Projects\SmsBlaster\SmsBlaster\bin\Release\SmsBlaster.exe
+C:\Documents and Settings\paul\My Documents\Visual Studio 2008\Projects\SmsBlaster\SmsBlaster\bin\Release\SmsBlaster.pdb
+C:\Documents and Settings\paul\My Documents\Visual Studio 2008\Projects\SmsBlaster\SmsBlaster\obj\Release\SmsBlaster.exe.manifest
+C:\Documents and Settings\paul\My Documents\Visual Studio 2008\Projects\SmsBlaster\SmsBlaster\obj\Release\SmsBlaster.application
+C:\Documents and Settings\paul\My Documents\Visual Studio 2008\Projects\SmsBlaster\SmsBlaster\obj\Release\SmsBlaster.exe
+C:\Documents and Settings\paul\My Documents\Visual Studio 2008\Projects\SmsBlaster\SmsBlaster\obj\Release\SmsBlaster.pdb
