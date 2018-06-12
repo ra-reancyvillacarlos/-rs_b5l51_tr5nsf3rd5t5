@@ -109,6 +109,7 @@
             this.Name = "EmailBlasting";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "EmailBlasting";
+            this.WindowState = System.Windows.Forms.FormWindowState.Minimized;
             this.MinimumSizeChanged += new System.EventHandler(this.EmailBlasting_MinimumSizeChanged);
             this.Load += new System.EventHandler(this.EmailBlasting_Load);
             this.Resize += new System.EventHandler(this.EmailBlasting_Resize);

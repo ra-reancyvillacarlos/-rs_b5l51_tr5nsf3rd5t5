@@ -35,6 +35,8 @@ namespace GSMModem
         private void EmailBlasting_Load(object sender, EventArgs e)
         {
             sendWorker.RunWorkerAsync();
+
+
         }
 
         public void initiate_sending()
@@ -182,7 +184,11 @@ namespace GSMModem
 
         private void EmailBlasting_MinimumSizeChanged(object sender, EventArgs e)
         {
-            //this.Hide();
+            if (this.WindowState == FormWindowState.Minimized)
+            {
+                Hide();
+                notifyIcon1.Visible = true;
+            }
         }
 
         private void notifyIcon1_BalloonTipClicked(object sender, EventArgs e)
