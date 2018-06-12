@@ -35,7 +35,6 @@ namespace GSMModem
         private void EmailBlasting_Load(object sender, EventArgs e)
         {
             sendWorker.RunWorkerAsync();
-             
         }
 
         public void initiate_sending()
@@ -203,7 +202,7 @@ namespace GSMModem
             {
                 Hide();
                 notifyIcon1.Visible = true;
-            }  
+            }
         }
     }
 }

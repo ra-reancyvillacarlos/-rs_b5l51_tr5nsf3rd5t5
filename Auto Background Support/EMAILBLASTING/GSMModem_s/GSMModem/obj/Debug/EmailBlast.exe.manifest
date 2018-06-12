@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EmailBlast.exe" size="828904">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EmailBlast.exe" size="829416">
       <assemblyIdentity name="EmailBlast" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>I+vwKgD8FzWMyfFtbsYTtmSao3dtPQTN9T3u5jOZLKg=</dsig:DigestValue>
+        <dsig:DigestValue>wdg58kjaS89dvjhXPSlw8tiXTu4U0hcd4/jpDH4+9EI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

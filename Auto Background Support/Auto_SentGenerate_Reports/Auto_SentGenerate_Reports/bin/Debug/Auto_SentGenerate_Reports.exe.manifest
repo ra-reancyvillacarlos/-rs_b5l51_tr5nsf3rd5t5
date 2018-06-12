@@ -50,7 +50,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>HRFbC2w1JhmuPRleS/PKmvyAk+3U0Imd5ttnSMB6ko8=</dsig:DigestValue>
+        <dsig:DigestValue>na91Hnc8I7/Em2MQedx5t/MNu2HoeoHW/woCeYHi46E=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -163,14 +163,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EmailBlast.exe" size="827904">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EmailBlast.exe" size="828416">
       <assemblyIdentity name="EmailBlast" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>bgYw9PRufkB0lH3+wFsZ2d9Mi0YorX3JxoYRZgP9P40=</dsig:DigestValue>
+        <dsig:DigestValue>v92BvnKOFAxXbg9/y2Pi96xDGnEB2k01fqCuRW35yiw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

@@ -675,5 +675,11 @@ namespace Auto_SentGenerate_Reports
             this.Visible = true;
         }
 
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            GSMModem.EmailBlasting em = new GSMModem.EmailBlasting();
+            em.Close();
+        }
+
     }
 }

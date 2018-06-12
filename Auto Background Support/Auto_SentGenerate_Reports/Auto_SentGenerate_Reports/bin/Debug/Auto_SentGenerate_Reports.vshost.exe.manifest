@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Auto_SentGenerate_Reports.exe" size="2181064">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Auto_SentGenerate_Reports.exe" size="2181576">
       <assemblyIdentity name="Auto_SentGenerate_Reports" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>br2Rv3BOna3C6c8UcGzxIUUIPGhCX3wGdsMMTbIh8+w=</dsig:DigestValue>
+        <dsig:DigestValue>HRFbC2w1JhmuPRleS/PKmvyAk+3U0Imd5ttnSMB6ko8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -170,7 +170,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>jAPyJaiFfduNMPuJ4naa013ImYbPdPEi/01s8ectZCI=</dsig:DigestValue>
+        <dsig:DigestValue>bgYw9PRufkB0lH3+wFsZ2d9Mi0YorX3JxoYRZgP9P40=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
